@@ -18,7 +18,7 @@ This project is still being tested
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-MDV2?v=1)
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/sanuwaofficial/AQUABOT-MD&branch=main&name=AQUABOT-MD)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Belmont142/AQUABOT-MD&branch=main&name=belmont_0102)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yP_YCd?referralCode=VN3jQs)
 ---------------------------------   
